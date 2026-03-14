@@ -1,5 +1,5 @@
 VALID_SIDES = ["BUY", "SELL"]
-VALID_ORDER_TYPES = ["MARKET", "LIMIT"]
+VALID_ORDER_TYPES = ["MARKET", "LIMIT", "STOP_LIMIT"]
 
 
 def validate_symbol(symbol):
